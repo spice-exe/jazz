@@ -2,15 +2,15 @@
 
 **IDGAFPL**
 
-*Version 1, August 2017
+*Version 1, August 2017*
 
-Copyright (C) 2017, Spice <spice_exe@outlook.com>*
+*Copyright (C) 2017, Spice <spice_exe@outlook.com>*
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name of the license is changed.
 
-***I DON'T GIVE A FUCK PUBLIC LICENSE
+***I DON'T GIVE A FUCK PUBLIC LICENSE***
 
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION***
+***TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION***
 
 0. I'm making this shit it up right now and I'm going to put it in all my open source shit.
 I don't care what you do with this because as far as I'm concerned I either:
