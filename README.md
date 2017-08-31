@@ -6,10 +6,10 @@ a sweet little script that was first written to replicate my old (like a year ma
 ## hotkeys
 
 movement:
-	ctrl + up = page up
-	ctrl + down = page down
-	ctrl + left = home
-	ctrl + right = end
+- ctrl + up = page up
+- ctrl + down = page down
+- ctrl + left = home
+- ctrl + right = end
 
 selection:
 	ctrl + shift + up = shift + pg up
